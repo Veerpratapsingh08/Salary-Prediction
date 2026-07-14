@@ -1,0 +1,33 @@
+Step 1: Import Required Libraries
+Step 2: Load Dataset
+Step 3: Display Dataset (First 5 Rows)
+Step 4: Shape of Dataset
+Step 5: Column Names
+Step 6: Dataset Information
+Step 7: Statistical Summary
+Step 8: Check Data Types
+Step 9: Check Missing Values (Missing Percentage)
+Step 10: Check & Show Duplicate Rows
+Step 11: Remove Duplicate Records
+Step 12: Drop Unnecessary Column (Employee_ID)
+Step 13: Separate Numerical & Categorical Columns
+Step 14: Unique Values in Categorical Columns
+Step 15: Correct Inconsistent Categories (Gender,Remote Work)
+Step 16: Check Invalid Numerical Values (Age, Experience, Skill Score, Performance Rating)
+Step 17: Fix Invalid Values (Age, Experience, Skill Score, Performance Rating)
+Step 18: Fill Missing Values
+Step 19: Check Outliers
+Step 20: Remove Outliers using IQR
+Step 21: Verify Shape
+Step 22: Correlation Matrix
+Step 23: Feature Encoding
+Step 24: Separate Features & Target
+Step 25: Train-Test Split
+Step 26: Feature Scaling (Standardization)
+Step 27: Train Multiple Linear Regression
+Step 28: Prediction
+Step 29: Model Evaluation
+Step 30: Compare Actual vs Predicted
+Step 31: Predict Salary for a New Employee
+
+
