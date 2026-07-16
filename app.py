@@ -44,7 +44,7 @@ def simple_salary_estimate(inputs: dict) -> float:
 
 
 def main():
-    st.set_page_config(page_title="Salary Predictor Pro", layout="wide")
+    st.set_page_config(page_title="Salary Predictor", layout="wide")
     
     # Load external CSS for custom styling
     try:
